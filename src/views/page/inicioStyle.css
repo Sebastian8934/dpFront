@@ -1,0 +1,18 @@
+
+.b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+  }
+  
+  .bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+  }
+
+  .carousel-backgourd-color {
+    /* background-image: url(https://www.ultraimagehub.com/wallpapers/tr:flp-false,gx-0.5,gy-1,q-75,rh-3264,rw-5824,th-1080,tw-1920/1242022607658815518.jpeg); */
+    background-image: url(https://img.freepik.com/foto-gratis/viejo-fondo-negro-textura-grunge-papel-tapiz-oscuro-pizarra-pizarra-pared-habitacion_1258-28313.jpg);
+  }
